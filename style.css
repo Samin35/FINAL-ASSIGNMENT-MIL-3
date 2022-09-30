@@ -16,8 +16,45 @@
     height: 180px;
 }
 
+.last-section {
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
 
+.ques-sec {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
 
+.feedback-sec {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.success-sec {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.joining-sec {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.explore-sec {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.carusel-sec {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.courses {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
 
 
 
@@ -42,6 +79,16 @@
     .last-section {
         display: none;
     }
+
+    .fs {
+        font-size: 9px;
+    }
+
+    .image {
+        width: 100px;
+        height: 180px;
+    }
+
 
 
 }
@@ -72,7 +119,7 @@
         padding: 10px;
     }
 
-    .image {
+    .image2 {
         height: 100%;
     }
 
