@@ -1,0 +1,83 @@
+.carusel-title {
+    position: absolute;
+    bottom: 40%;
+}
+
+.title-carusel {
+    font-size: 3rem;
+}
+
+
+.text-align-center {
+    text-align: center;
+}
+
+.card {
+    height: 180px;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:376px) {
+    .carusel-title {
+        bottom: 0;
+    }
+
+    .title-carusel {
+        font-size: 1.5rem;
+    }
+
+    .width {
+        width: 350px;
+    }
+
+    .last-section {
+        display: none;
+    }
+
+
+}
+
+
+
+/* tablet view */
+
+@media screen and (min-width:377px) and (max-width:1000px) {
+    .carusel-title {
+        bottom: 20%;
+    }
+
+    .title-carusel {
+        font-size: 1.5rem;
+    }
+
+    .text-align-center {
+        text-align: center;
+    }
+
+    .card-item-all {
+        margin-left: 10%;
+
+    }
+
+    .half-div {
+        padding: 10px;
+    }
+
+    .image {
+        height: 100%;
+    }
+
+    .last-section {
+        display: none;
+    }
+
+}
